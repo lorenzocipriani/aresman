@@ -6,6 +6,11 @@ Build chain
 
 Install Autotools
 
+On Linux
+yum -y update
+yum -y install autoconf automake glibc-headers
+yum -y install git
+
 On Mac OS X
 brew update
 brew install autoconf

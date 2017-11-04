@@ -22,6 +22,7 @@ AC_CHECK_HEADERS([fcntl.h stdlib.h string.h syslog.h unistd.h])
 
 # Checks for typedefs, structures, and compiler characteristics.
 AC_TYPE_PID_T
+AC_TYPE_SIZE_T
 
 # Checks for library functions.
 AC_FUNC_FORK
