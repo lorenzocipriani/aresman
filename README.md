@@ -8,7 +8,7 @@ Install Autotools
 
 On Linux
 yum -y update
-yum -y install autoconf automake glibc-headers
+yum -y install autoconf automake gcc glibc-headers strace
 yum -y install git
 
 On Mac OS X

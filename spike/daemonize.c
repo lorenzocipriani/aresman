@@ -1,5 +1,5 @@
 /*
- * demonize.c
+ * daemonize.c
  *
  *  Created on: 2017-09-29
  *      Author: Lorenzo Cipriani <lorenzo1974@gmail.com>
